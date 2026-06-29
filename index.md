@@ -22,7 +22,7 @@ Finly no comparte datos con terceros.
 No usa servicios de analítica ni publicidad.
 
 ## Contacto
-Para cualquier consulta: support@finly.app
+Para cualquier consulta: finlytracker@gmail.com
 
 ## Cambios en esta política
 Cualquier cambio se notificará mediante
